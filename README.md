@@ -2,8 +2,7 @@
 
 # Mario Aliaga ~ @maliaga
 
-I'm passionate about technologies that can help people have a better time.
-:smile: I’m a Backend developer with a bachelor’s degree in informatic engineering.
+:star_struck: I'm passionate about technologies that can help people have a better time.
 :telescope: I’m currently working at Walmart Chile as a Golang Developer.
 :speech_balloon: Feel free to contact me. :mailbox: mario@aliaga.dev
 
