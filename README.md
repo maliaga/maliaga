@@ -3,6 +3,9 @@
 # Mario Aliaga ~ @maliaga
 
 I'm passionate about technologies that can help people have a better time.
+:smile: I’m a Backend developer with a bachelor’s degree in informatic engineering.
+:telescope: I’m currently working at Walmart Chile as a Golang Developer.
+:speech_balloon: Feel free to contact me. :mailbox: mario@aliaga.dev
 
 [Certifications:](https://www.credly.com/users/marioaliaga/badges)
 
@@ -10,6 +13,7 @@ I'm passionate about technologies that can help people have a better time.
 ![AWS Practitiomes](https://images.credly.com/size/140x140/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)
 ![Cloud Architect](https://images.credly.com/size/140x140/images/17ca53b3-5010-401d-b508-f1f0f0d0d3e7/INSIGNIAS2_Mesa_de_trabajo_1_copia_24__1_.png)
 
+https://github-profile-trophy.vercel.app/?username=maliaga
 
 ## Repository stats
 
