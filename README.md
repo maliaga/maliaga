@@ -3,7 +3,9 @@
 # Mario Aliaga ~ @maliaga
 
 :star_struck: I'm passionate about technologies that can help people have a better time.
+
 :telescope: I’m currently working at Walmart Chile as a Golang Developer.
+
 :speech_balloon: Feel free to contact me. :mailbox: mario@aliaga.dev
 
 [Certifications:](https://www.credly.com/users/marioaliaga/badges)
