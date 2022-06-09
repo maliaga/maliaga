@@ -14,7 +14,7 @@
 ![AWS Practitiomes](https://images.credly.com/size/140x140/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)
 ![Cloud Architect](https://images.credly.com/size/140x140/images/17ca53b3-5010-401d-b508-f1f0f0d0d3e7/INSIGNIAS2_Mesa_de_trabajo_1_copia_24__1_.png)
 
-https://github-profile-trophy.vercel.app/?username=maliaga
+<a href=“https://github.com/ryo-ma/github-profile-trophy”><img src=“https://github-profile-trophy.vercel.app/?username=maliaga” alt=“mario” /></a>
 
 ## Repository stats
 
