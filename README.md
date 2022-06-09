@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src=“https://github-profile-trophy.vercel.app/?username=maliaga” alt=“mario” />
+<img src="https://github-profile-trophy.vercel.app/?username=maliaga" alt="mario" />
 
 ## Repository stats
 
