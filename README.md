@@ -4,7 +4,7 @@
 
 :star_struck: I'm passionate about technologies that can help people have a better time.
 
-:telescope: I’m currently working at Walmart Chile as a Golang Developer.
+:telescope: I’m currently working at Kount an Equifax Company as a Golang Developer.
 
 :speech_balloon: Feel free to contact me. :mailbox: mario@aliaga.dev
 
