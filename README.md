@@ -14,7 +14,7 @@ I am a software developer focused on creating robust and scalable backend system
 
 * **Backend:** Go (Golang), Java, NodeJS
 * **Cloud:** AWS, GCP
-* **Databases:** Relational (e.g., Oracle, PostgreSQL) & Non-Relational (e.g., MongoDB, DynamoDB)
+* **Databases:** Relational (e.g., Oracle, PostgreSQL) & Non-Relational (e.g., MongoDB, Redis, DynamoDB)
 
 ---
 
