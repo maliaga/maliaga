@@ -13,7 +13,7 @@ I am a software developer focused on creating robust and scalable backend system
 ### 🚀 My Tech Stack
 
 * **Backend:** Go (Golang), Java, NodeJS
-* **Cloud:** AWS
+* **Cloud:** AWS, GCP
 * **Databases:** Relational (e.g., Oracle, PostgreSQL) & Non-Relational (e.g., MongoDB, DynamoDB)
 
 ---
